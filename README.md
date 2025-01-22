@@ -1,7 +1,8 @@
 # StarkHealthClinicDiabetesPredictions
 
 
-![image](https://github.com/user-attachments/assets/618ed760-3603-4402-a1a5-fdef10b3f865)
+![image](https://github.com/user-attachments/assets/2e361c7f-16f8-40b6-9938-e5bd90b22bda)
+
 
 # OBJECTIVE OF THE PROJECT
 
