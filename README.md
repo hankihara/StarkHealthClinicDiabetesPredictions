@@ -43,7 +43,7 @@ This is a classification problem focused on developing a machine learning model 
 
 4. Performed Encoding by converting categorical variables into numerical form by using OneHotEncoder.
 
-5.Prepared the dataset by splitting the data into training and test sets.
+5. Prepared the dataset by splitting the data into training and test sets.
 
 # Model: Decision Tree Classifier
 
